@@ -7,6 +7,6 @@
 4. python Hitunglaba.py
 
 # Tampilan
-![Tampilan](Tampilan.jpg)
+![Tampilan_termux](Tampilan_termux.jpg)
 
 
