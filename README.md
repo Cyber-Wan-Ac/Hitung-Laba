@@ -7,6 +7,6 @@
 4. python Hitunglaba.py
 
 # Tampilan
-![alt text](path/to/Tampilan.jpg)
+![Tampilan](Tampilan.jpg)
 
 
